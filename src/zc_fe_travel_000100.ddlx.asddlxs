@@ -1,0 +1,8 @@
+@Metadata.layer: #CORE
+annotate view ZC_FE_Travel_001010
+    with 
+{
+    @UI.lineItem: [{ position: 20 }]
+    TravelID;
+    
+}
